@@ -1,2 +1,5 @@
 */input.txt
 */testInput.txt
+*/output.txt
+*/output/*
+.DS_Store
