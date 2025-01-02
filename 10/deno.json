@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "tiny-queue": "npm:tiny-queue@^0.2.1"
+  }
+}

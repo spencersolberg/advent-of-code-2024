@@ -12,7 +12,7 @@ My AoC 2024 solutions using Deno/Typescript (no LLM generated code).
 | [07](https://adventofcode.com/2024/day/7) |        |        |
 | [08](https://adventofcode.com/2024/day/8) |  ⭐    |        |
 | [09](https://adventofcode.com/2024/day/9) |   ⭐   |   ⭐   |
-| [10](https://adventofcode.com/2024/day/10) |        |        |
+| [10](https://adventofcode.com/2024/day/10) |   ⭐   |        |
 | [11](https://adventofcode.com/2024/day/11) |   ⭐   |   ⭐   |
 | [12](https://adventofcode.com/2024/day/12) |        |        |
 | [13](https://adventofcode.com/2024/day/13) |   ⭐   |   ⭐    |

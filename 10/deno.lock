@@ -1,0 +1,20 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:tiny-queue@~0.2.1": "0.2.1",
+    "npm:tinyqueue@*": "3.0.0"
+  },
+  "npm": {
+    "tiny-queue@0.2.1": {
+      "integrity": "sha512-EijGsv7kzd9I9g0ByCl6h42BWNGUZrlCSejfrb3AKeHC33SGbASu1VDf5O3rRiiUOhAC9CHdZxFPbZu0HmR70A=="
+    },
+    "tinyqueue@3.0.0": {
+      "integrity": "sha512-gRa9gwYU3ECmQYv3lslts5hxuIa90veaEcxDYuu3QGOIAEM2mOZkVHp48ANJuu1CURtRdHKUBY5Lm1tHV+sD4g=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:tiny-queue@~0.2.1"
+    ]
+  }
+}
